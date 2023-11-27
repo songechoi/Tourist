@@ -10,3 +10,5 @@ lorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlo
 
 ***
 [구글링크](https://www.google.com)
+
+![대체텍스트]()
